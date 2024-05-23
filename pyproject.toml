@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_modelscopet2v"
+description = "Allows native usage of ModelScope based Text To Video Models in ComfyUI"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ExponentialML/ComfyUI_ModelScopeT2V"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ModelScopeT2V"
+Icon = ""
